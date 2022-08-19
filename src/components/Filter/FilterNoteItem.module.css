@@ -1,0 +1,15 @@
+.note {
+    padding: 5px;
+    font-weight: bold;
+    font-size: 1.25rem;
+    margin-right: 10px;
+    cursor: pointer;
+    color: blue;
+}
+.note:last-child {
+    margin-right: 0;
+}
+
+.active {
+    color: red;
+}
